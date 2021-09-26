@@ -47,7 +47,7 @@ module.exports = {
   ],
 
   axios: {
-    baseURL: 'https://localhost:3000/api',
+    baseURL: 'https://poker-hands-study-app.vercel.app/api',
     proxy: true
   },
   /*
